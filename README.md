@@ -1,4 +1,4 @@
-#🧠 AI RAG Assistant using LangChain
+# AI-Powered RAG Assistant Using LangChain and Gradio
 
 This project demonstrates how to build a Retrieval-Augmented Generation (RAG) application using LangChain, IBM WatsonX, and Gradio. The project was completed as part of Coursera's "Generative AI Applications with RAG and LangChain" course.
 
