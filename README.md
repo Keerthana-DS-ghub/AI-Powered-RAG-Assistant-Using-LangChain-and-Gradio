@@ -11,6 +11,13 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) ap
 - Build a QA bot using LangChain + LLM
 - Deploy an interactive interface using Gradio
 
+## 🛠️ Tech Stack
+- LangChain
+- IBM WatsonX Embeddings
+- ChromaDB
+- Gradio
+- Python
+
 ## 🖼️ Screenshots
 All steps were executed within Coursera Labs. Below are screenshots of each module:
 
@@ -20,13 +27,6 @@ All steps were executed within Coursera Labs. Below are screenshots of each modu
 - 🗃️ Vector DB Setup (`vectordb.png`)
 - 🔍 Retriever Setup (`retriever.png`)
 - 🤖 QA Bot Interface (`QA_bot.png`)
-
-## 🛠️ Tech Stack
-- LangChain
-- IBM WatsonX Embeddings
-- ChromaDB
-- Gradio
-- Python
 
 ## 📚 Course
 Completed as part of [Generative AI Applications with RAG and LangChain](https://www.coursera.org/learn/langchain-rag) on Coursera
