@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI-Powered+RAG+Assistant;LangChain+%7C+WatsonX+Embeddings+%7C+Gradio+UI;Context-Aware+Question+Answering+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI-Powered+RAG+Assistant;LangChain+%7C+WatsonX+Embeddings+%7C+Gradio+UI;Context-Aware+Question+Answering+%F0%9F%94%A5&color=00008B" alt="Typing SVG" />
 </p>
 
 ## This project demonstrates how to build a Retrieval-Augmented Generation (RAG) application using LangChain, IBM WatsonX, and Gradio. The project was completed as part of Coursera's "Generative AI Applications with RAG and LangChain" course.
@@ -23,15 +23,6 @@
 </p>
 
 <p align="center"><strong>Interactive Document-Based QA System using Retrieval-Augmented Generation 🔍📄</strong></p>
-
-
-
-
-- LangChain
-- IBM WatsonX Embeddings
-- ChromaDB
-- Gradio
-- Python
 
 ## 🖼️ Screenshots
 Below is the Screenshot for my Rag Chatbot.
