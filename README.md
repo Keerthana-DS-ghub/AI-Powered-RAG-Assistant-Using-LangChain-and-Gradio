@@ -20,7 +20,7 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) ap
 
 ## 🖼️ Screenshots
 All steps were executed within Coursera Labs. Below is the Screenshot for my Rag Chatbot.
-- 🤖 QA Bot Interface (`Rag_Chatbot.png`)
+- 🤖 QA Bot Interface (Rag_Chatbot.png)
 
 ## 📚 Course
 Completed as part of Generative AI Applications with RAG and LangChain on Coursera
