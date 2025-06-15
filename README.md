@@ -19,10 +19,23 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) ap
 - Python
 
 ## 🖼️ Screenshots
-All steps were executed within Coursera Labs. Below is the Screenshot for my Rag Chatbot.
+Below is the Screenshot for my Rag Chatbot.
 ![🤖 QA Bot Interface](Rag_Chatbot.png)
 
-## 📚 Course
-Completed as part of Generative AI Applications with RAG and LangChain on Coursera
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI-Powered+RAG+Assistant;LangChain+%7C+WatsonX+Embeddings+%7C+Gradio+UI;Context-Aware+Question+Answering+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradio-FF7043?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/WatsonX-0A74DA?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG-1E88E5?style=for-the-badge&logo=openai&logoColor=white">
+</p>
+
+<p align="center"><strong>Interactive Document-Based QA System using Retrieval-Augmented Generation 🔍📄</strong></p>
+
+
 
 
