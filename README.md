@@ -19,17 +19,10 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) ap
 - Python
 
 ## 🖼️ Screenshots
-All steps were executed within Coursera Labs. Below are screenshots of each module:
-
-- 📄 Document Loader (`pdf_loader.png`)
-- ✂️ Text Splitter (`code_splitter.png`)
-- 🔢 Embedding Generation (`embedding.png`)
-- 🗃️ Vector DB Setup (`vectordb.png`)
-- 🔍 Retriever Setup (`retriever.png`)
-- 🤖 QA Bot Interface (`QA_bot.png`)
+All steps were executed within Coursera Labs. Below is the Screenshot for my Rag Chatbot.
+- 🤖 QA Bot Interface (`Rag_Chatbot.png`)
 
 ## 📚 Course
-Completed as part of [Generative AI Applications with RAG and LangChain](https://www.coursera.org/learn/langchain-rag) on Coursera
+Completed as part of Generative AI Applications with RAG and LangChain on Coursera
 
-## 📌 Note
-This repository reflects a reproduction of work completed on the Coursera lab environment.
+
