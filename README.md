@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI-Powered+RAG+Assistant;LangChain+%7C+WatsonX+Embeddings+%7C+Gradio+UI;Context-Aware+Question+Answering+%F0%9F%94%A5&color=00008B" alt="Typing SVG" />
 </p>
 
-# This project demonstrates how to build a Retrieval-Augmented Generation (RAG) application using LangChain, IBM WatsonX, and Gradio. The project was completed as part of Coursera's "Generative AI Applications with RAG and LangChain" course.
+### This project demonstrates how to build a Retrieval-Augmented Generation (RAG) application using LangChain, IBM WatsonX, and Gradio. The project was completed as part of Coursera's "Generative AI Applications with RAG and LangChain" course.
 
 ## 🚀 Features
 - Load documents from multiple sources using LangChain loaders
@@ -27,11 +27,3 @@
 ## 🖼️ Screenshots
 Below is the Screenshot for my Rag Chatbot.
 ![🤖 QA Bot Interface](Rag_Chatbot.png)
-
-
-
-
-
-
-
-
